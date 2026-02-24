@@ -39,7 +39,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     #3rd party
     "rest_framework",
+<<<<<<< HEAD
     "snoppets",
+=======
+    "snippets",
+>>>>>>> temp-fix
 ]
 
 MIDDLEWARE = [
