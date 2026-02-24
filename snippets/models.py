@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-from django.db import models
-
-# Create your models here.
-=======
 # snippets/models.py
 from django.db import models
 from pygments.lexers import get_all_lexers
@@ -32,4 +27,3 @@ class Snippet(models.Model):
  
     def __str__(self):
         return self.title
->>>>>>> temp-fix
