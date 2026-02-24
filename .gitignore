@@ -2,7 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
+<<<<<<< HEAD
 
+=======
+*.sqlite3
+>>>>>>> fd4eda5 (initial commmit)
 # C extensions
 *.so
 
